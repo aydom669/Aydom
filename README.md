@@ -27,4 +27,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydom669&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aydom669)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aydom669&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
